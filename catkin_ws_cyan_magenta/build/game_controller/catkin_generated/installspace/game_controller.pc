@@ -1,0 +1,8 @@
+prefix=/home/robotis/catkin_ws/install
+
+Name: game_controller
+Description: Description of game_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/robotis/catkin_ws/install/lib -lgame_controller
+Requires: roscpp std_msgs

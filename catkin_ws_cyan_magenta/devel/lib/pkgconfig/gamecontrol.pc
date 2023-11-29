@@ -1,0 +1,8 @@
+prefix=/home/robotis/catkin_ws/devel
+
+Name: gamecontrol
+Description: Description of gamecontrol
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/robotis/catkin_ws/devel/lib 
+Requires: 
